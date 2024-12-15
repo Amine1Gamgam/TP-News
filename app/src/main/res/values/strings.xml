@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">World News</string>
+    <string name="default_title">pas de titre</string>
+    <string name="default_description">pas de descriptions</string>
+    <string name="api_key">baa94174b67d498895b3247dc04b87de</string>
+    <string-array name="categories">
+        <item>General News</item>
+        <item>Technology</item>
+        <item>Sports</item>
+        <item>Health</item>
+        <item>Entertainment</item>
+        <item>Business</item>
+
+    </string-array>
+</resources>
